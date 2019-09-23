@@ -8,4 +8,7 @@ Software and libraries for project:-
                                 Resnet18
                                 GPU enabled workspace
                                 openCV
+                                numpy
+                                glob
+                                matplotlib
                                 
